@@ -1,0 +1,9 @@
+[
+  {
+    "id": "vmp-train-career",
+    "name": "VMP Train Career",
+    "path": "packs/vmp-train-career",
+    "bannerUrl": null,
+    "minLauncherVersion": "0.1.0"
+  }
+]
