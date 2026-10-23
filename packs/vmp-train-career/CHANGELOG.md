@@ -1,5 +1,11 @@
 # VMP Train Career
 
+## 2026.10.23.1 (2026-10-23)
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.276+g5f225d83 -> 2.15.0.277+g9b362c4e
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.277_g9b362c4e.zip.
+- Server policy: 4 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.22.3 (2026-10-22)
 
 ApexGuidance now downloads and updates automatically for friends who used an invite code (needs launcher 0.2.0). No mod changes.

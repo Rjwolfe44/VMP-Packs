@@ -174,7 +174,7 @@
     <DllFile>
       <Text>alglib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/alglib.dll</FilePath>
-      <Sha>FE-54-5D-32-A8-05-CC-7F-6E-86-7E-97-20-8B-84-D2-2C-F1-8B-0E-1B-8E-D5-DD-84-F1-B5-FB-8F-F1-6C-89</Sha>
+      <Sha>58-C1-BC-A5-10-C1-F7-71-69-9F-B5-B9-66-20-BA-DF-5F-9A-A6-BB-9B-74-C1-94-AA-1A-23-97-62-2F-83-4B</Sha>
     </DllFile>
     <DllFile>
       <Text>JetBrains.Annotations. Version: 2023.3.0</Text>
@@ -182,19 +182,19 @@
       <Sha>54-94-93-9D-0B-98-6B-95-35-82-FA-15-04-35-B0-CC-78-4B-18-0A-21-4E-E4-DC-CA-97-85-05-8E-58-5B-6F</Sha>
     </DllFile>
     <DllFile>
-      <Text>MechJeb2. Version: 2.15.1.0</Text>
+      <Text>mechjeb2. Version: 2.15.1.0</Text>
       <FilePath>apexguidance/plugins/mechjeb2.dll</FilePath>
-      <Sha>CC-99-14-8A-AB-F4-10-25-8C-69-D1-3C-F1-33-7D-A7-A4-F8-4D-93-7F-6D-A5-CF-78-04-58-F9-D7-F5-8A-E4</Sha>
+      <Sha>E1-BB-06-05-69-3D-A5-99-BF-9C-F6-75-11-44-BB-A9-53-9E-FA-E1-04-92-75-43-5D-E5-D0-6D-BA-96-D1-59</Sha>
     </DllFile>
     <DllFile>
-      <Text>MechJebLib. Version: 1.0.0.0</Text>
+      <Text>mechjeblib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblib.dll</FilePath>
-      <Sha>8C-9F-B9-31-68-9F-79-9D-52-83-A3-F1-3D-37-98-34-63-0A-DA-EF-79-F5-FD-08-22-72-2B-83-2D-39-CF-C0</Sha>
+      <Sha>33-20-6D-84-1A-31-12-C6-DC-E7-59-A6-AF-A4-D7-68-B9-06-B8-96-36-49-4B-36-DC-73-FA-E2-88-A6-91-E5</Sha>
     </DllFile>
     <DllFile>
-      <Text>MechJebLibBindings. Version: 1.0.0.0</Text>
+      <Text>mechjeblibbindings. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblibbindings.dll</FilePath>
-      <Sha>93-37-EC-E6-60-4C-E5-A1-07-B1-DC-B7-B2-F7-80-B3-FB-EF-92-B7-E3-13-81-86-8C-55-0A-0D-00-12-FE-D2</Sha>
+      <Sha>30-7B-02-EA-D5-65-73-AB-21-6A-56-D6-A9-22-8C-65-FE-C0-5A-3D-90-6A-B6-23-1F-F0-42-72-7B-39-C2-A5</Sha>
     </DllFile>
     <DllFile>
       <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>
