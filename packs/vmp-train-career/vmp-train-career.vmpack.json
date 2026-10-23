@@ -3,7 +3,7 @@
   "id": "vmp-train-career",
   "name": "VMP Train Career",
   "author": "Rjwolfe44",
-  "version": "2026.10.23.2",
+  "version": "2026.10.23.3",
   "description": "Career multiplayer world on trainpc: 180 CKAN mods, the VMP client and ApexGuidance, pinned to the exact versions the server expects.",
   "game": {
     "kspVersion": "1.12.5",
@@ -119,6 +119,7 @@
     ],
     "mutableOwned": [
       "GameData/**/PluginData/**",
+      "GameData/**/@thumbs/**",
       "GameData/KerbalEngineer/Settings/**",
       "GameData/AtmosphereAutopilot/Global_settings.txt",
       "GameData/RocketSoundEnhancement/Settings.cfg"

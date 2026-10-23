@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.10.23.3 (2026-10-23)
+
+Fix: an update no longer fails when KSP has redrawn a part icon (files in @thumbs folders, e.g. Mk3Expansion). No mod changes.
+
+- No module changes.
+- Server policy: unchanged.
+
 ## 2026.10.23.2 (2026-10-23)
 
 VMP client 0.2.0-train.20261023.1: other players vessels show up again (fixed a vessel-sync crash), and career sync (launch pad and building upgrades, science) recovers by itself if it stalls. The server runs the matching build.
