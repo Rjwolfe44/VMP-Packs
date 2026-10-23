@@ -3,16 +3,34 @@
   "id": "vmp-train-career",
   "name": "VMP Train Career",
   "author": "Rjwolfe44",
-  "version": "2026.10.22.2",
+  "version": "2026.10.22.3",
   "description": "Career multiplayer world on trainpc: 180 CKAN mods, the VMP client and ApexGuidance, pinned to the exact versions the server expects.",
   "game": {
     "kspVersion": "1.12.5",
     "buildId64": "03190",
     "requiredDlc": [
-      { "identifier": "MakingHistory-DLC", "folder": "SquadExpansion/MakingHistory", "version": "1.12.1", "policyName": "MakingHistory" },
-      { "identifier": "BreakingGround-DLC", "folder": "SquadExpansion/Serenity", "version": "1.7.1", "policyName": "Serenity" }
+      {
+        "identifier": "MakingHistory-DLC",
+        "folder": "SquadExpansion/MakingHistory",
+        "version": "1.12.1",
+        "policyName": "MakingHistory"
+      },
+      {
+        "identifier": "BreakingGround-DLC",
+        "folder": "SquadExpansion/Serenity",
+        "version": "1.7.1",
+        "policyName": "Serenity"
+      }
     ],
-    "compatibleGameVersions": [ "1.12", "1.11", "1.10", "1.9", "1.8", "1.7", "1.6" ]
+    "compatibleGameVersions": [
+      "1.12",
+      "1.11",
+      "1.10",
+      "1.9",
+      "1.8",
+      "1.7",
+      "1.6"
+    ]
   },
   "ckan": {
     "source": "registry",
@@ -28,11 +46,24 @@
       "license": "MIT",
       "sourceDir": "..\\..\\..\\VMP\\VMPMod\\Build\\Release\\Client",
       "installAs": "GameData/VladMultiplayer",
-      "versionFrom": { "assemblyInformationalVersion": "Plugins/LmpClient.dll" },
-      "exclude": [ "Data/**", "Traces/**", "logs/**" ],
+      "versionFrom": {
+        "assemblyInformationalVersion": "Plugins/LmpClient.dll"
+      },
+      "exclude": [
+        "Data/**",
+        "Traces/**",
+        "logs/**"
+      ],
       "provides": [],
-      "conflicts": [ "LunaMultiplayer", "LunaCompat" ],
-      "distribution": { "kind": "github-release", "repo": "Rjwolfe44/VMP", "tagPrefix": "client-" }
+      "conflicts": [
+        "LunaMultiplayer",
+        "LunaCompat"
+      ],
+      "distribution": {
+        "kind": "github-release",
+        "repo": "Rjwolfe44/VMP",
+        "tagPrefix": "client-"
+      }
     },
     {
       "id": "VMPCustom-ApexGuidance",
@@ -41,34 +72,77 @@
       "license": "GPL-3.0",
       "sourceDir": "..\\..\\..\\ApexGuidance\\publish\\GameData\\ApexGuidance",
       "installAs": "GameData/ApexGuidance",
-      "versionFrom": { "gitDescribe": "..\\..\\..\\ApexGuidance\\MechJeb2" },
-      "exclude": [ "Plugins/PluginData/**" ],
+      "versionFrom": {
+        "gitDescribe": "..\\..\\..\\ApexGuidance\\MechJeb2"
+      },
+      "exclude": [
+        "Plugins/PluginData/**"
+      ],
       "provides": [],
-      "conflicts": [ "MechJeb2" ],
-      "distribution": { "kind": "private-sideload", "hint": "Ask Chevy for the ApexGuidance zip for this pack version." }
+      "conflicts": [
+        "MechJeb2"
+      ],
+      "distribution": {
+        "kind": "private-github",
+        "repo": "Rjwolfe44/VMP-Private-Mods",
+        "tagPrefix": "apex-",
+        "hint": "Paste the invite code from Chevy, or ask him for the ApexGuidance zip."
+      }
     }
   ],
   "overrides": [],
   "fileRules": {
     "generated": [
-      "GameData/ModuleManager.ConfigCache", "GameData/ModuleManager.ConfigSHA", "GameData/ModuleManager.Physics",
-      "GameData/ModuleManager.TechTree", "GameData/toolbar-settings.dat", "GameData/**/*.log", "GameData/**/*.tmp",
-      "GameData/ScattererAtmosphereCache/**", "GameData/**/ScattererAtmosphereCache/**",
+      "GameData/ModuleManager.ConfigCache",
+      "GameData/ModuleManager.ConfigSHA",
+      "GameData/ModuleManager.Physics",
+      "GameData/ModuleManager.TechTree",
+      "GameData/toolbar-settings.dat",
+      "GameData/**/*.log",
+      "GameData/**/*.tmp",
+      "GameData/ScattererAtmosphereCache/**",
+      "GameData/**/ScattererAtmosphereCache/**",
       "GameData/Sigma/Replacements/Settings.cfg",
-      "GameData/**/Cache/**", "GameData/**/*.hash", "GameData/**/*.TechTree",
-      "GameData/Kopernicus/Config/Kopernicus_Config.cfg", "GameData/Astrogator/AstrogatorSettings.cfg",
-      "GameData/KerbalKonstructs/PluginDataWindowPositions.cfg", "GameData/KSP-AVC/Plugins/KSP-AVC.xml"
+      "GameData/**/Cache/**",
+      "GameData/**/*.hash",
+      "GameData/**/*.TechTree",
+      "GameData/Kopernicus/Config/Kopernicus_Config.cfg",
+      "GameData/Astrogator/AstrogatorSettings.cfg",
+      "GameData/KerbalKonstructs/PluginDataWindowPositions.cfg",
+      "GameData/KSP-AVC/Plugins/KSP-AVC.xml"
     ],
-    "perPlayer": [ "GameData/VladMultiplayer/Data/**", "GameData/VladMultiplayer/Traces/**", "GameData/VladMultiplayer/logs/**", "GameData/ApexGuidance/Plugins/PluginData/**" ],
-    "mutableOwned": [ "GameData/**/PluginData/**", "GameData/KerbalEngineer/Settings/**", "GameData/AtmosphereAutopilot/Global_settings.txt", "GameData/RocketSoundEnhancement/Settings.cfg" ],
-    "stock": [ "GameData/Squad/**", "GameData/SquadExpansion/**" ]
+    "perPlayer": [
+      "GameData/VladMultiplayer/Data/**",
+      "GameData/VladMultiplayer/Traces/**",
+      "GameData/VladMultiplayer/logs/**",
+      "GameData/ApexGuidance/Plugins/PluginData/**"
+    ],
+    "mutableOwned": [
+      "GameData/**/PluginData/**",
+      "GameData/KerbalEngineer/Settings/**",
+      "GameData/AtmosphereAutopilot/Global_settings.txt",
+      "GameData/RocketSoundEnhancement/Settings.cfg"
+    ],
+    "stock": [
+      "GameData/Squad/**",
+      "GameData/SquadExpansion/**"
+    ]
   },
   "multiplayer": {
     "requiredClientVersion": "auto",
     "servers": [
-      { "name": "Train - Playit", "address": "signaling-karma.tun.ply.gg", "port": 18113, "exportable": true },
-      { "name": "Train - ZeroTier", "address": "10.37.239.191", "port": 8800, "exportable": true },
-      { "name": "Train - LAN", "address": "192.168.50.115", "port": 8800, "exportable": false }
+      {
+        "name": "Train - Playit",
+        "address": "signaling-karma.tun.ply.gg",
+        "port": 18113,
+        "exportable": true
+      },
+      {
+        "name": "Train - ZeroTier",
+        "address": "10.37.239.191",
+        "port": 8800,
+        "exportable": true
+      }
     ],
     "policyUrl": "https://raw.githubusercontent.com/Rjwolfe44/VMP-Packs/main/packs/vmp-train-career/KSPModControl.xml",
     "serverDirectoryUrl": "https://raw.githubusercontent.com/Rjwolfe44/VMP-Packs/main/packs/vmp-train-career/servers.json"
