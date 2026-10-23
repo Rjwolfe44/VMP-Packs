@@ -184,17 +184,17 @@
     <DllFile>
       <Text>MechJeb2. Version: 2.15.1.0</Text>
       <FilePath>apexguidance/plugins/mechjeb2.dll</FilePath>
-      <Sha>D9-43-47-60-66-FB-32-F1-01-2A-20-58-3C-84-C9-D5-28-5D-E6-FF-99-27-F0-1F-44-87-FD-45-A9-33-BB-C9</Sha>
+      <Sha>CC-99-14-8A-AB-F4-10-25-8C-69-D1-3C-F1-33-7D-A7-A4-F8-4D-93-7F-6D-A5-CF-78-04-58-F9-D7-F5-8A-E4</Sha>
     </DllFile>
     <DllFile>
       <Text>MechJebLib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblib.dll</FilePath>
-      <Sha>69-F7-3C-85-A5-00-D0-7D-7C-38-73-DB-7C-65-F3-55-88-58-CE-BC-C4-58-DC-92-27-B5-17-DA-99-8E-A2-F0</Sha>
+      <Sha>8C-9F-B9-31-68-9F-79-9D-52-83-A3-F1-3D-37-98-34-63-0A-DA-EF-79-F5-FD-08-22-72-2B-83-2D-39-CF-C0</Sha>
     </DllFile>
     <DllFile>
       <Text>MechJebLibBindings. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblibbindings.dll</FilePath>
-      <Sha>FF-AD-2A-EC-3B-62-71-2F-BA-38-C7-3F-1B-49-4B-72-0A-B7-02-69-53-62-BA-84-88-6C-2C-42-C4-CE-71-D5</Sha>
+      <Sha>93-37-EC-E6-60-4C-E5-A1-07-B1-DC-B7-B2-F7-80-B3-FB-EF-92-B7-E3-13-81-86-8C-55-0A-0D-00-12-FE-D2</Sha>
     </DllFile>
     <DllFile>
       <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>

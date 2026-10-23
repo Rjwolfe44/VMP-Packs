@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-16"?>
+<SettingStructure xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Language>English</Language>
+  <PlayerName>Player</PlayerName>
+  <DisclaimerAccepted>false</DisclaimerAccepted>
+  <Servers>
+    <ServerEntry>
+      <Name>Train - Playit</Name>
+      <Port>18113</Port>
+      <Address>signaling-karma.tun.ply.gg</Address>
+      <Password></Password>
+    </ServerEntry>
+    <ServerEntry>
+      <Name>Train - ZeroTier</Name>
+      <Port>8800</Port>
+      <Address>10.37.239.191</Address>
+      <Password></Password>
+    </ServerEntry>
+  </Servers>
+  <Mtu>1200</Mtu>
+  <AutoExpandMtu>false</AutoExpandMtu>
+  <TimeoutSeconds>30</TimeoutSeconds>
+</SettingStructure>
