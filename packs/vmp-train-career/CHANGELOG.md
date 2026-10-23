@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.10.23.2 (2026-10-23)
+
+VMP client 0.2.0-train.20261023.1: other players vessels show up again (fixed a vessel-sync crash), and career sync (launch pad and building upgrades, science) recovers by itself if it stalls. The server runs the matching build.
+
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261022.1 -> 0.2.0-train.20261023.1
+- Server policy: 1 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.23.1 (2026-10-23)
 
 - Updated: VMPCustom-ApexGuidance 2.15.0.276+g5f225d83 -> 2.15.0.277+g9b362c4e

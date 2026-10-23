@@ -1002,9 +1002,9 @@
       <Sha>9C-CC-E9-39-DD-A6-C7-65-01-DE-20-87-F5-65-6B-08-8B-AF-F4-CB-DA-73-85-29-96-B6-13-88-5D-1D-06-B3</Sha>
     </DllFile>
     <DllFile>
-      <Text>LmpClient. Version: 0.2.0</Text>
+      <Text>lmpclient. Version: 0.2.0</Text>
       <FilePath>vladmultiplayer/plugins/lmpclient.dll</FilePath>
-      <Sha>74-25-88-94-F4-B8-29-68-2E-19-AD-7F-2F-71-1E-82-F5-2F-33-52-72-93-75-78-A5-44-B1-CC-4A-8E-F1-01</Sha>
+      <Sha>12-28-9D-96-D0-ED-D5-C3-5D-2F-F9-75-06-09-A9-67-40-F4-CC-63-69-9D-A1-9B-B1-A4-8F-37-69-C8-38-B9</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>
