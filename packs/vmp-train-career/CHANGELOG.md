@@ -1,5 +1,14 @@
 # VMP Train Career
 
+## 2026.10.23.5 (2026-10-23)
+
+Fixes a crash that could disconnect a player while time warping. ApexGuidance 2.15.0.280: fixes the altitude rails-warp block below 100 km, restores HIGH warp mode in vacuum, and releases warp control when idle.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.279+g30d4f9a6 -> 2.15.0.280+g91cbb1ba
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.2 -> 0.2.0-train.20261023.3
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.280_g91cbb1ba.zip.
+- Server policy: 5 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.23.4 (2026-10-23)
 
 New VMP toolbar button and flag art, and ApexGuidance updated to 2.15.0.279.
