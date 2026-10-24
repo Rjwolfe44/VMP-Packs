@@ -1,5 +1,14 @@
 # VMP Train Career
 
+## 2026.10.23.4 (2026-10-23)
+
+New VMP toolbar button and flag art, and ApexGuidance updated to 2.15.0.279.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.277+g9b362c4e -> 2.15.0.279+g30d4f9a6
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.1 -> 0.2.0-train.20261023.2
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.279_g30d4f9a6.zip.
+- Server policy: 5 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.23.3 (2026-10-23)
 
 Fix: an update no longer fails when KSP has redrawn a part icon (files in @thumbs folders, e.g. Mk3Expansion). No mod changes.
