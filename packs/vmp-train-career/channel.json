@@ -3,9 +3,9 @@
   "packId": "vmp-train-career",
   "channels": {
     "stable": {
-      "version": "2026.10.23.5",
-      "lock": "2026.10.23.5/vmp-train-career.vmpack.lock.json",
-      "sha256": "c4748f757373b5e3e5fecae9b72fa4bf5bae44f08b799df9e106a6a71773facf"
+      "version": "2026.10.24.1",
+      "lock": "2026.10.24.1/vmp-train-career.vmpack.lock.json",
+      "sha256": "48e15ae571dab35e0dd16836ba7f3367730b2315337c90708ce618faf8bccaaa"
     }
   }
 }

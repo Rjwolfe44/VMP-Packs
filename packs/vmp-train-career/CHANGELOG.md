@@ -1,5 +1,13 @@
 # VMP Train Career
 
+## 2026.10.24.1 (2026-10-24)
+
+ApexGuidance 2.15.0.282: fixes two repeating errors (the flight logging every tick, and the Mission Director in the VAB and SPH) and holds time warp at 1x during staging.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.280+g91cbb1ba -> 2.15.0.282+gf690b00a
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.282_gf690b00a.zip.
+- Server policy: 4 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.23.5 (2026-10-23)
 
 Fixes a crash that could disconnect a player while time warping. ApexGuidance 2.15.0.280: fixes the altitude rails-warp block below 100 km, restores HIGH warp mode in vacuum, and releases warp control when idle.
