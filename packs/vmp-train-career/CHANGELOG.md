@@ -1,5 +1,14 @@
 # VMP Train Career
 
+## 2026.10.24.2 (2026-10-24)
+
+Time warp no longer destroys your ship. Moon trips from ApexGuidance add a correction burn when needed and no longer fire the capture burn in empty space. Many autopilot fixes (ApexGuidance 2.15.0.283). VMP now has a Send logs to host button in Options, and a guard against jumping straight to top time warp.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.282+gf690b00a -> 2.15.0.283+gc85ca58e
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.3 -> 0.2.0-train.20261023.4
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.283_gc85ca58e.zip.
+- Server policy: 5 hash(es) updated, 0 DLL(s) added, 0 removed (212 mandatory).
+
 ## 2026.10.24.1 (2026-10-24)
 
 ApexGuidance 2.15.0.282: fixes two repeating errors (the flight logging every tick, and the Mission Director in the VAB and SPH) and holds time warp at 1x during staging.
