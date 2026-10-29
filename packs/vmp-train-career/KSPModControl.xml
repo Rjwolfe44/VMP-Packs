@@ -1049,7 +1049,7 @@
     <DllFile>
       <Text>lmpclient. Version: 0.2.0</Text>
       <FilePath>vladmultiplayer/plugins/lmpclient.dll</FilePath>
-      <Sha>7C-17-1F-AD-3C-47-41-D9-2F-11-3E-2F-6B-03-07-92-8B-1A-49-04-4E-E6-58-E8-CA-68-C4-7C-CD-BD-5D-24</Sha>
+      <Sha>3E-ED-A6-8B-E9-A9-60-4D-8D-92-9A-48-DD-6A-3A-5C-8C-02-A9-65-EF-9D-5D-6B-D4-70-E7-DA-42-69-0A-EA</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>
@@ -1067,9 +1067,9 @@
       <Sha>1D-3E-F8-69-82-81-E7-CF-73-71-D1-55-4A-FE-F5-87-2B-39-F9-6C-26-DA-77-22-10-A3-3D-A0-41-BA-11-83</Sha>
     </DllFile>
     <DllFile>
-      <Text>System.Runtime.CompilerServices.Unsafe. Version: 4.6.28619.01</Text>
+      <Text>system.runtime.compilerservices.unsafe. Version: 6.0.21.52210</Text>
       <FilePath>vladmultiplayer/plugins/system.runtime.compilerservices.unsafe.dll</FilePath>
-      <Sha>66-40-9F-67-03-15-AF-E8-61-0F-17-A4-D3-A1-EE-52-D7-2B-6A-46-C5-44-CE-C9-75-44-E8-38-5F-90-AD-74</Sha>
+      <Sha>37-76-84-88-E8-EF-45-72-9B-C7-D9-A2-67-76-33-C6-45-00-42-97-5B-B9-65-16-E1-86-DA-6C-B9-CD-0D-CF</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Runtime.Serialization. Version: 3.0.4506.648</Text>

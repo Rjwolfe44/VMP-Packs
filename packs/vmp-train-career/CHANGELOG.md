@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.10.29.2 (2026-10-29)
+
+VMP client .11: less network traffic when joining (all game data is now compressed with zstd, adjustable on the server), the server host can ask your game for its logs when something goes wrong (turn this off under Options > Send reports to the host automatically), and a newer helper library (Unsafe 6.0.0) that lets the game compress too.
+
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.10 -> 0.2.0-train.20261023.11
+- Server policy: 2 hash(es) updated, 0 DLL(s) added, 0 removed (223 mandatory).
+
 ## 2026.10.29.1 (2026-10-29)
 
 Maintenance release: updates pack metadata. No mod or client changes.
