@@ -1,5 +1,15 @@
 # VMP Train Career
 
+## 2026.11.06.1 (2026-11-06)
+
+VMP client 12: far fewer long freezes after other players' vessels load (the game no longer runs a full save then), slow game saves are now logged with the mod that causes them, R&D screen no longer throws with no node selected. ApexGuidance 2.15.0.287: stops the repeating Hoverslam error during ascents. SCANsat/MechJeb link repaired. Fuel-switch tanks no longer flood the editor log. Server merges Kerbal Konstructs saves instead of overwriting them.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.286+g98cbffea -> 2.15.0.287+g2e5a75d0
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.11 -> 0.2.0-train.20261023.12
+- Overrides: +2 ~0 -0
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.287_g2e5a75d0.zip.
+- Server policy: 6 hash(es) updated, 0 DLL(s) added, 0 removed (223 mandatory).
+
 ## 2026.10.29.2 (2026-10-29)
 
 VMP client .11: less network traffic when joining (all game data is now compressed with zstd, adjustable on the server), the server host can ask your game for its logs when something goes wrong (turn this off under Options > Send reports to the host automatically), and a newer helper library (Unsafe 6.0.0) that lets the game compress too.

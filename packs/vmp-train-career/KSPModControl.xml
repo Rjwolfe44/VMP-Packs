@@ -184,7 +184,7 @@
     <DllFile>
       <Text>alglib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/alglib.dll</FilePath>
-      <Sha>77-7A-FC-F7-02-86-4A-04-D7-22-C3-51-A5-C6-5F-C9-C7-73-55-B4-FA-63-38-8D-D1-97-C7-E1-1E-D4-00-9B</Sha>
+      <Sha>AD-3E-29-22-08-38-D0-97-E2-A6-34-A0-61-8E-B6-D4-4C-C5-DA-8A-7C-33-03-BD-F0-8B-86-B5-10-4D-71-36</Sha>
     </DllFile>
     <DllFile>
       <Text>JetBrains.Annotations. Version: 2023.3.0</Text>
@@ -194,17 +194,17 @@
     <DllFile>
       <Text>mechjeb2. Version: 2.15.1.0</Text>
       <FilePath>apexguidance/plugins/mechjeb2.dll</FilePath>
-      <Sha>8B-DD-57-FF-68-EE-73-56-B3-74-E9-37-09-38-E0-97-E3-F5-E2-B2-5C-08-1B-B7-FB-18-46-10-B6-67-79-DF</Sha>
+      <Sha>BF-08-AB-81-B4-7B-A2-A5-9F-8B-5B-0E-CE-45-54-71-87-4B-AE-C2-24-AD-84-3F-D0-68-BF-B1-28-A1-F3-B8</Sha>
     </DllFile>
     <DllFile>
       <Text>mechjeblib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblib.dll</FilePath>
-      <Sha>03-43-BA-27-B6-19-96-62-A1-CE-83-27-BB-B4-B6-9C-12-36-3D-63-1D-A8-FE-18-1C-E4-B5-92-07-25-7F-06</Sha>
+      <Sha>96-31-58-DF-40-AB-B7-1A-92-14-28-E7-BE-D9-5F-42-ED-83-C4-B7-DC-DC-CA-A9-E0-F2-F1-0B-42-9D-46-22</Sha>
     </DllFile>
     <DllFile>
       <Text>mechjeblibbindings. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblibbindings.dll</FilePath>
-      <Sha>85-B9-05-A9-09-FF-89-4A-E1-39-9C-54-23-A5-01-EA-27-5C-5A-D9-AF-EB-CB-A5-D9-9F-C6-A4-A6-D9-8E-5E</Sha>
+      <Sha>D0-EB-9A-03-63-96-38-30-1B-86-9B-CE-E4-10-C1-21-20-7F-4C-62-DB-FF-5A-23-9F-73-2A-94-85-F9-59-A7</Sha>
     </DllFile>
     <DllFile>
       <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>
@@ -762,9 +762,9 @@
       <Sha>D2-5F-30-43-8B-D3-E6-1F-9B-A3-55-A4-0E-F4-3E-02-21-3F-7A-F6-C8-CF-FC-35-5E-9E-89-15-A7-6A-BF-43</Sha>
     </DllFile>
     <DllFile>
-      <Text>SCANmechjeb. Version: 21.1.0.0</Text>
+      <Text>scanmechjeb. Version: 21.1.0.0</Text>
       <FilePath>scansat/plugins/scanmechjeb.dll</FilePath>
-      <Sha>5C-8E-4B-B1-CC-A7-00-2C-64-93-14-B2-44-25-AE-D0-DF-E2-54-C1-BE-E4-83-CC-92-73-08-67-D9-3A-A6-68</Sha>
+      <Sha>12-98-E3-08-2D-0D-C3-B7-84-DB-8F-64-57-DB-0E-B3-5D-00-DD-EF-12-32-53-71-6C-43-47-9F-42-3F-84-F3</Sha>
     </DllFile>
     <DllFile>
       <Text>SCANsat. Version: 21.1.0.0</Text>
@@ -1049,7 +1049,7 @@
     <DllFile>
       <Text>lmpclient. Version: 0.2.0</Text>
       <FilePath>vladmultiplayer/plugins/lmpclient.dll</FilePath>
-      <Sha>3E-ED-A6-8B-E9-A9-60-4D-8D-92-9A-48-DD-6A-3A-5C-8C-02-A9-65-EF-9D-5D-6B-D4-70-E7-DA-42-69-0A-EA</Sha>
+      <Sha>96-10-D6-F4-5F-83-F8-51-A2-A5-DE-CB-AC-56-8A-8C-29-2A-87-D3-F0-28-BF-DD-DE-BC-26-17-63-EE-FB-94</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>
