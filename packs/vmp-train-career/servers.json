@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "packId": "vmp-train-career",
-  "sequence": 14,
-  "issuedAt": "2026-11-07T03:57:34Z",
+  "sequence": 15,
+  "issuedAt": "2026-11-07T06:37:26Z",
   "server": {
     "id": "train-career",
     "displayName": "VMP Train Career",
     "protocolForkId": "VMP.VladMultiplayer",
-    "requiredBuild": "0.2.0-train.20261023.13",
+    "requiredBuild": "0.2.0-train.20261023.14",
     "passwordRequired": true,
     "mtu": 1200
   },

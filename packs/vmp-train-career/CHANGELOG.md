@@ -1,5 +1,13 @@
 # VMP Train Career
 
+## 2026.11.07.1 (2026-11-07)
+
+VMP client and server 14: players can now send their logs to the host at any time from the Options window (with limits so nobody can flood the server), and a failed send retries by itself. Fixes a flood of PartSet messages in KSP.log from fuel-switch tanks. Replaces the old fuel-switch tank patch file.
+
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.13 -> 0.2.0-train.20261023.14
+- Overrides: +0 ~0 -1
+- Server policy: 1 hash(es) updated, 0 DLL(s) added, 0 removed (225 mandatory).
+
 ## 2026.11.06.4 (2026-11-06)
 
 Added UbioZur Welding Ltd. Continued 2.5.4, a tool that merges several parts into one welded part to cut part count. It has no parts of its own. Welded parts only exist on the PC that made them, so ask the host to add any welded part you want to use in multiplayer. It was written for KSP 1.8 and has not been tested on 1.12.5 yet: report any errors in your KSP.log.

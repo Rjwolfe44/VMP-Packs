@@ -1049,7 +1049,7 @@
     <DllFile>
       <Text>lmpclient. Version: 0.2.0</Text>
       <FilePath>vladmultiplayer/plugins/lmpclient.dll</FilePath>
-      <Sha>91-40-68-F9-4E-3D-A3-F5-B4-1F-D7-7B-5D-A0-50-A8-99-70-08-F1-BA-9B-4A-11-F5-0F-A6-AE-5E-0E-09-5B</Sha>
+      <Sha>26-F0-E9-C2-CC-F7-75-6E-1F-46-72-CE-CA-9E-95-72-72-11-33-E3-70-5D-7A-41-CE-46-1D-63-5D-13-35-02</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>
