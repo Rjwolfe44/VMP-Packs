@@ -2,7 +2,7 @@
   "schema": "vmpack-sig/1",
   "alg": "ecdsa-p256-sha256",
   "keyId": "vmp-host-2026a",
-  "signedSha256": "533f729de28dbe0df0b7cb640ea078ecd8c9391162825c6659a95d9e1ef26e6b",
-  "sig": "aolc43z2qFkRdy5iyuc9SEj0mHzz3nAqS4ige4qwSpLgkCSJLeYHJC4580Zr7+6PRbxOujtUwU7ic/Sby3OMGA==",
-  "utc": "2026-11-06T20:45:16.9371275+00:00"
+  "signedSha256": "0fbcc738348ff8efa3bc4d2577f7ebcf5823d709f2e2dc12954f8eb98904ccfc",
+  "sig": "7r5CDcjntJL9hL/EM7+tdfuk3qSvXQY6wffODrZJm/uPwTiuOBTMaPho5LeXic4eJlKWSLP5asepmqWZpg41/g==",
+  "utc": "2026-11-07T02:29:19.7679589+00:00"
 }

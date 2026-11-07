@@ -1,5 +1,13 @@
 # VMP Train Career
 
+## 2026.11.06.2 (2026-11-06)
+
+ApexGuidance 2.15.0.290: new Relay Constellation tool. It plans evenly spaced relay-probe orbit slots, releases the probes from a carrier one by one, fires each probe's solid kick motor and then opens its solar panels and antennas by itself. It is off unless you switch Relay probe on in a probe core's right-click menu, and it has a Check setup panel that explains problems in plain words.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.287+g2e5a75d0 -> 2.15.0.290+g04a8f458
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.290_g04a8f458.zip.
+- Server policy: 4 hash(es) updated, 0 DLL(s) added, 0 removed (223 mandatory).
+
 ## 2026.11.06.1 (2026-11-06)
 
 VMP client 12: far fewer long freezes after other players' vessels load (the game no longer runs a full save then), slow game saves are now logged with the mod that causes them, R&D screen no longer throws with no node selected. ApexGuidance 2.15.0.287: stops the repeating Hoverslam error during ascents. SCANsat/MechJeb link repaired. Fuel-switch tanks no longer flood the editor log. Server merges Kerbal Konstructs saves instead of overwriting them.
