@@ -184,7 +184,7 @@
     <DllFile>
       <Text>alglib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/alglib.dll</FilePath>
-      <Sha>61-05-20-6F-3A-3F-EE-E3-64-A4-45-C5-C4-16-98-E3-E4-CB-AE-B3-D4-F0-5E-62-71-B8-67-DC-D4-FB-14-D4</Sha>
+      <Sha>E9-71-A4-4F-2A-83-3B-7D-03-64-74-A5-B1-35-52-AB-BC-59-53-99-03-4B-4A-2A-A2-EE-4C-0F-A2-4E-30-D9</Sha>
     </DllFile>
     <DllFile>
       <Text>JetBrains.Annotations. Version: 2023.3.0</Text>
@@ -194,17 +194,17 @@
     <DllFile>
       <Text>mechjeb2. Version: 2.15.1.0</Text>
       <FilePath>apexguidance/plugins/mechjeb2.dll</FilePath>
-      <Sha>D5-A0-AB-E8-D0-51-E7-2F-C6-2D-C6-82-57-54-1C-02-9A-7A-F4-ED-CD-45-08-86-E1-AA-8E-8A-C1-A7-07-67</Sha>
+      <Sha>2B-26-DF-59-0F-08-06-0E-8E-20-07-E2-6B-4B-1F-4D-6A-00-2C-83-93-B2-4E-F9-E8-9D-D1-44-F3-58-B6-70</Sha>
     </DllFile>
     <DllFile>
       <Text>mechjeblib. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblib.dll</FilePath>
-      <Sha>E0-1E-20-A4-88-CF-00-4B-2A-AA-D8-78-D8-E1-0B-25-A2-04-8A-04-AA-B1-20-A2-97-70-C9-7B-FA-5D-E5-6C</Sha>
+      <Sha>DD-B2-36-C8-76-8B-83-76-59-54-D1-D1-D1-EE-C2-A1-95-36-DF-D1-33-FE-55-17-3D-7C-80-55-EF-E1-49-BF</Sha>
     </DllFile>
     <DllFile>
       <Text>mechjeblibbindings. Version: 1.0.0.0</Text>
       <FilePath>apexguidance/plugins/mechjeblibbindings.dll</FilePath>
-      <Sha>1B-48-49-69-4B-85-6E-D4-B7-FE-CD-57-4C-F6-DB-E5-27-27-BD-0F-AA-6B-D7-75-9C-4A-36-DB-BF-76-F9-6F</Sha>
+      <Sha>53-1D-9B-77-3C-B2-3B-95-54-90-9C-1A-FA-94-EB-94-78-D7-E0-E4-28-69-5F-33-35-B3-F5-7D-09-57-67-95</Sha>
     </DllFile>
     <DllFile>
       <Text>ASETPropsIdentifier. Version: 1.5.0.0</Text>
@@ -1049,7 +1049,7 @@
     <DllFile>
       <Text>lmpclient. Version: 0.2.0</Text>
       <FilePath>vladmultiplayer/plugins/lmpclient.dll</FilePath>
-      <Sha>B6-D7-7B-E7-14-C4-62-E0-D5-16-EF-7D-08-26-13-94-E6-07-F5-7C-0A-19-EA-1B-6B-72-55-B4-33-48-B3-E4</Sha>
+      <Sha>9D-41-37-3B-65-54-7F-2C-C8-DC-23-85-1E-94-56-62-93-55-1C-0A-41-D6-EE-A8-13-C4-B6-F2-43-BC-2D-11</Sha>
     </DllFile>
     <DllFile>
       <Text>System.Buffers. Version: 4.6.28619.01</Text>

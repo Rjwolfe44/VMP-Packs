@@ -1,5 +1,14 @@
 # VMP Train Career
 
+## 2026.11.07.3 (2026-11-07)
+
+VMP client and server 16: the game now catches up with the server clock when your frame rate is low instead of jumping the clock forward 3.5 seconds every 15 to 30 seconds (an option in the VMP Options window, on by default), and the health report now shows how much time VMP itself takes per frame. ApexGuidance: landing in an atmosphere (for example Duna) now uses physics time warp during the coast to the braking burn instead of staying at 1x, and the landing window says why when it holds 1x.
+
+- Updated: VMPCustom-ApexGuidance 2.15.0.290+g04a8f458 -> 2.15.0.291+g91f2ad73
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.15 -> 0.2.0-train.20261023.16
+- Private package(s) changed: ask the host for ApexGuidance-2.15.0.291_g91f2ad73.zip.
+- Server policy: 5 hash(es) updated, 0 DLL(s) added, 0 removed (225 mandatory).
+
 ## 2026.11.07.2 (2026-11-07)
 
 VMP client and server 15: fixes being disconnected with an error when a rocket you are watching or flying near separates stages, docks or undocks (a part from a mod could throw an error and VMP dropped you). While someone spectates, the watched rocket now sends its position 20 times a second instead of about 7, so the motion is smoother. Everyone needs the update, including the player flying the rocket.
