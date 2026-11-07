@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.11.07.2 (2026-11-07)
+
+VMP client and server 15: fixes being disconnected with an error when a rocket you are watching or flying near separates stages, docks or undocks (a part from a mod could throw an error and VMP dropped you). While someone spectates, the watched rocket now sends its position 20 times a second instead of about 7, so the motion is smoother. Everyone needs the update, including the player flying the rocket.
+
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.14 -> 0.2.0-train.20261023.15
+- Server policy: 1 hash(es) updated, 0 DLL(s) added, 0 removed (225 mandatory).
+
 ## 2026.11.07.1 (2026-11-07)
 
 VMP client and server 14: players can now send their logs to the host at any time from the Options window (with limits so nobody can flood the server), and a failed send retries by itself. Fixes a flood of PartSet messages in KSP.log from fuel-switch tanks. Replaces the old fuel-switch tank patch file.
