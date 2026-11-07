@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.11.06.3 (2026-11-06)
+
+VMP client and server 13: edits to Kerbal Konstructs statics (new launch sites, facilities) that a player saves are now shared with everyone after they rejoin. Scenario saves can no longer overlap and mix up modules. Smaller fixes: action groups fired on a vessel you are not flying, and an ignored part-purchase message that filled the server log.
+
+- Updated: VMPCustom-VladMultiplayer 0.2.0-train.20261023.12 -> 0.2.0-train.20261023.13
+- Server policy: 1 hash(es) updated, 0 DLL(s) added, 0 removed (223 mandatory).
+
 ## 2026.11.06.2 (2026-11-06)
 
 ApexGuidance 2.15.0.290: new Relay Constellation tool. It plans evenly spaced relay-probe orbit slots, releases the probes from a carrier one by one, fires each probe's solid kick motor and then opens its solar panels and antennas by itself. It is off unless you switch Relay probe on in a probe core's right-click menu, and it has a Check setup panel that explains problems in plain words.
