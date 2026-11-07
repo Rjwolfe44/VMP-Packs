@@ -1,5 +1,12 @@
 # VMP Train Career
 
+## 2026.11.06.4 (2026-11-06)
+
+Added UbioZur Welding Ltd. Continued 2.5.4, a tool that merges several parts into one welded part to cut part count. It has no parts of its own. Welded parts only exist on the PC that made them, so ask the host to add any welded part you want to use in multiplayer. It was written for KSP 1.8 and has not been tested on 1.12.5 yet: report any errors in your KSP.log.
+
+- Added: UbioWeldContinued 2.5.4
+- Server policy: 0 hash(es) updated, 2 DLL(s) added, 0 removed (225 mandatory).
+
 ## 2026.11.06.3 (2026-11-06)
 
 VMP client and server 13: edits to Kerbal Konstructs statics (new launch sites, facilities) that a player saves are now shared with everyone after they rejoin. Scenario saves can no longer overlap and mix up modules. Smaller fixes: action groups fired on a vessel you are not flying, and an ignored part-purchase message that filled the server log.

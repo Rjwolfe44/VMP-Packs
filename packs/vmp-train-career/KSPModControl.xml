@@ -1121,6 +1121,16 @@
       <FilePath>[x]_science!/plugins/[x]_science!.dll</FilePath>
       <Sha>17-94-6C-C4-A7-0B-B6-A5-B1-3E-54-A3-9A-B6-DC-0B-56-27-88-0D-22-D8-12-C7-2C-CD-18-92-4A-D3-8A-C6</Sha>
     </DllFile>
+    <DllFile>
+      <Text>miniavc. Version: 1.0.3.2</Text>
+      <FilePath>ubioweldingltd/miniavc.dll</FilePath>
+      <Sha>9E-E1-0C-46-CB-6F-86-41-7F-00-50-46-AE-72-FE-DD-A1-56-E1-D4-7C-92-FE-BC-B8-4C-68-F5-0E-03-F0-8A</Sha>
+    </DllFile>
+    <DllFile>
+      <Text>ubioweldingltd. Version: 2.5.3.0</Text>
+      <FilePath>ubioweldingltd/ubioweldingltd.dll</FilePath>
+      <Sha>C7-17-D5-F2-21-51-44-64-C2-15-22-5D-7B-F8-BA-F1-15-BE-68-87-5E-48-4B-0D-24-54-57-F1-13-27-B1-47</Sha>
+    </DllFile>
   </MandatoryPlugins>
   <OptionalPlugins />
   <ForbiddenPlugins></ForbiddenPlugins>
